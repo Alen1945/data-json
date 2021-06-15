@@ -2,6 +2,19 @@
     "Women": {
       "name": "Women",
       "children": [
+         {
+          "name": "Dresses",
+          "children": [
+            {
+              "name": "Jumpsuits",
+              "children": []
+            },
+            {
+              "name": "Casual",
+              "children": []
+            }
+          ]
+        },
         {
           "name": "Beauty",
           "children": []
@@ -15,19 +28,6 @@
             },
             {
               "name": "Blazers",
-              "children": []
-            }
-          ]
-        },
-        {
-          "name": "Dresses",
-          "children": [
-            {
-              "name": "Jumpsuits",
-              "children": []
-            },
-            {
-              "name": "Casual",
               "children": []
             }
           ]
