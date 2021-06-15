@@ -1,0 +1,224 @@
+{
+    "Women": {
+      "name": "Women",
+      "children": [
+        {
+          "name": "Beauty",
+          "children": []
+        },
+        {
+          "name": "Outerwear",
+          "children": [
+            {
+              "name": "Kimonos",
+              "children": []
+            },
+            {
+              "name": "Blazers",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dresses",
+          "children": [
+            {
+              "name": "Jumpsuits",
+              "children": []
+            },
+            {
+              "name": "Casual",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Tops",
+          "children": [
+            {
+              "name": "Blouse",
+              "children": []
+            },
+            {
+              "name": "Shirts",
+              "children": []
+            },
+            {
+              "name": "Tees",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shoes",
+          "children": [
+            {
+              "name": "Sneakers",
+              "children": []
+            },
+            {
+              "name": "Flats",
+              "children": []
+            },
+            {
+              "name": "Sandals",
+              "children": []
+            },
+            {
+              "name": "Heels + Wedges",
+              "children": []
+            },
+            {
+              "name": "Shoe Care",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bottoms",
+          "children": [
+            {
+              "name": "Pants",
+              "children": []
+            },
+            {
+              "name": "Skirts",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "children": [
+            {
+              "name": "Wallets + Small Leather Goods",
+              "children": []
+            },
+            {
+              "name": "Bags",
+              "children": []
+            },
+            {
+              "name": "Belts",
+              "children": []
+            },
+            {
+              "name": "Others",
+              "children": []
+            },
+            {
+              "name": "Glasses",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "Men": {
+      "name": "Men",
+      "children": [
+        {
+          "name": "Grooming",
+          "children": []
+        },
+        {
+          "name": "Tops",
+          "children": [
+            {
+              "name": "Shirts",
+              "children": []
+            },
+            {
+              "name": "Tees",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shoes",
+          "children": [
+            {
+              "name": "Sneakers",
+              "children": []
+            },
+            {
+              "name": "Oxford",
+              "children": []
+            },
+            {
+              "name": "Shoe Care",
+              "children": []
+            },
+            {
+              "name": "Sandals",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Outerwear",
+          "children": [
+            {
+              "name": "Sweatshirts + Hoodies",
+              "children": []
+            },
+            {
+              "name": "Jackets",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bottoms",
+          "children": [
+            {
+              "name": "Shorts",
+              "children": []
+            },
+            {
+              "name": "Pants",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Accessories",
+          "children": [
+            {
+              "name": "Bags",
+              "children": []
+            },
+            {
+              "name": "Watches",
+              "children": []
+            },
+            {
+              "name": "Glasses",
+              "children": []
+            },
+            {
+              "name": "Socks",
+              "children": []
+            },
+            {
+              "name": "Others",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "F&B": {
+      "name": "F&B",
+      "children": [
+        {
+          "name": "Food",
+          "children": []
+        },
+        {
+          "name": "Beverage",
+          "children": []
+        }
+      ]
+    }
+  }
