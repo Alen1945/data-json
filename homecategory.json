@@ -1,0 +1,22 @@
+[
+    {
+        "title":"Snakcs",
+        "url":"/p/snacks",
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2Ftops.jpg?alt=media&token=451cfe3a-302b-4350-b7ef-e2e8e7507f85"
+    },
+    {
+        "title":"Beverages",
+        "url":"p/beverages",
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FshoesImg.jpg?alt=media&token=a3bb4b8f-2ddb-48b8-b5d8-3e140f31bece"
+    },
+    {
+        "title":"Bath Goods",
+        "url":"/p/bath",
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FbagImg.jpg?alt=media&token=61ced175-b8a7-4424-9b65-7705df3e0874"
+    },
+    {
+        "title":"Home Sanitize",
+        "url":"/p/sanitize",
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FaccessoriesImg.jpg?alt=media&token=015fd3d1-af8e-48fe-a06c-7443e817360f"
+    }
+]
