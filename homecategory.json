@@ -1,22 +1,17 @@
 [
     {
-        "title":"Figurine",
-        "url":"/p/Toys/Figurine",
+        "title":"Accessories",
+        "url":"/p/Accessories",
         "imageURL":"https://lh3.googleusercontent.com/n2dNbUGUjt2AG2UXM5tLshYxbNgw_EdEMFxpLbSlazy-HJqxQJEgFPyFSYJSZ0EIXaPvGC9UBwwR3WQetxf6MIiAjWWLa_J9LjMB31E=s500"
     },
     {
-        "title":"Standee",
-        "url":"p/Toys/Standee",
+        "title":"Toys",
+        "url":"p/Toys",
         "imageURL":"https://lh3.googleusercontent.com/4z9r1O1RZ3lShdZfBCNCFJUEOfhWMptmav-40VpyxxuL2-KZ-0wNam-Rhsl9hafPa95PHe9EIFkEQn9zavzdPJmNUHOb4Se0ku0nEw=s500"
     },
     {
-        "title":"Keychain",
-        "url":"/p/Accessories/Keychain",
+        "title":"Apparel",
+        "url":"/p/Apparel",
         "imageURL":"https://lh3.googleusercontent.com/1j4cGAFfEgCwnWv1p_aWR3VPE6CoHFq2guBhqX_mVorS2XWVBlGC3m1bfMvOxk5cggt1jHz4qUanmYEXG48BHvaBYWr0G100X64ZBP8=s500"
-    },
-    {
-        "title":"Plastic Model Kit",
-        "url":"/p/Toys/Plastic%20Model%20Kit",
-        "imageURL":"https://lh3.googleusercontent.com/ZYOQ-lvsLmsdBxgPh5BlkXFgVPcLuTCgOS79CVuaATKEbCv4vIIEv1wlbhlUq3_Ambk-AiYWh4nFmP8tvGQo_fb3ECNA9UfloJGkDJY=s500"
     }
 ]
