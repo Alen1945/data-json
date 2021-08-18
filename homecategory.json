@@ -2,16 +2,16 @@
     {
         "title":"Accessories",
         "url":"/p/Accessories",
-        "imageURL":"https://lh3.googleusercontent.com/n2dNbUGUjt2AG2UXM5tLshYxbNgw_EdEMFxpLbSlazy-HJqxQJEgFPyFSYJSZ0EIXaPvGC9UBwwR3WQetxf6MIiAjWWLa_J9LjMB31E=s500"
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FAccesories.jpg?alt=media"
     },
     {
         "title":"Toys",
         "url":"p/Toys",
-        "imageURL":"https://lh3.googleusercontent.com/4z9r1O1RZ3lShdZfBCNCFJUEOfhWMptmav-40VpyxxuL2-KZ-0wNam-Rhsl9hafPa95PHe9EIFkEQn9zavzdPJmNUHOb4Se0ku0nEw=s500"
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FToys.jpg?alt=media"
     },
     {
         "title":"Apparel",
         "url":"/p/Apparel",
-        "imageURL":"https://lh3.googleusercontent.com/1j4cGAFfEgCwnWv1p_aWR3VPE6CoHFq2guBhqX_mVorS2XWVBlGC3m1bfMvOxk5cggt1jHz4qUanmYEXG48BHvaBYWr0G100X64ZBP8=s500"
+        "imageURL":"https://firebasestorage.googleapis.com/v0/b/livecoding-backend.appspot.com/o/image-aset%2FApparel.jpg?alt=media"
     }
 ]
