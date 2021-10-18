@@ -66,7 +66,7 @@
   "fooddemo": [
     {
       "title": "F&B",
-      "url": "/p/F&B",
+      "url": "/p/Indonesian%20Food",
       "imageURL": "https://lh3.googleusercontent.com/WFDRKhW5HcRmYnBLsgiMAQ-84Sm2z4gQvLf09W_6gzB6P_gG0-idnE64gmWAKQngmsqVhHt97ymGsawbjy5myVvJT2Zfc5nEA0pWsw=s400"
     },
     {
@@ -86,12 +86,12 @@
     },
     {
       "title": "Smoker Pitt",
-      "url": "/p/Smoker Pitt",
+      "url": "/p/Chinese%20Food",
       "imageURL": "https://lh3.googleusercontent.com/MNE9BOljcyrST3do7Zjgp8bAnTzpaGQtaJjFys6vT1zOA8YeoSTNk_gi_6g4QeKzb3fCJJl9nq7gGFQ0pqFVumKiKG0MALrdhk-Y4Y8=s400"
     },
     {
       "title": "Burger",
-      "url": "/p/Western%20Food/Burger",
+      "url": "/p/Western%20Food",
       "imageURL": "https://lh3.googleusercontent.com/ch3mSXY-m7NkZU8YUFGY40JHZbSGVZDOfrOYFPc9R48RtM0jYXOMhK3f1aIWaAlWdf02fuXs41uXg9YrWryi60MFU5Edr9FqfYzS8g=s400"
     }
   ]
