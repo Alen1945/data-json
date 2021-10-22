@@ -33,32 +33,37 @@
   ],
  "homeappliancedemo": [
     {
+      "id": 102,
       "title": "Kitchen",
       "url": "/p/Kitchen",
       "imageURL": "https://lh3.googleusercontent.com/kGQhuiZBlQaKf-SMhDNJAHHuCuLR-3EjjqTobEQmnZv_yHWbL2SV8cg-CT9XMNmfveJmOm4n0V5nOUx6v2oLU64Kfa_bsZoH8KEt=s400"
     },
     {
-       "id": 102,
+       "id": 108,
       "title": "Cleaning",
       "url": "/p/Cleaning",
       "imageURL": "https://lh3.googleusercontent.com/Nwssg8kLqNRkmocvbgh7xHt605Plc2PxMEA8h_gguU39LMczuQjZ4Pdttx-IgKT16x-t35NdtbtgxhMwygElc2M4DDpzWnp3AuokSmc=s400"
     },
     {
+      "id": 102,
       "title": "Entertainment",
       "url": "/p/Entertainment",
       "imageURL": "https://lh3.googleusercontent.com/YGh8NHl2PDRGm2xdpb172r1tTUscJAe1zG37rleE7BeiZBe4-G6rLB4Ak7Sx56Rp92ewJy74inOYvD9VNf2mCSzr3aqcUvM203Bgzw=s400"
     },
-    {
+    { 
+       "id": 103,
       "title": "Smoker Pitt",
       "url": "/p/Smoker Pitt",
       "imageURL": "https://lh3.googleusercontent.com/MNE9BOljcyrST3do7Zjgp8bAnTzpaGQtaJjFys6vT1zOA8YeoSTNk_gi_6g4QeKzb3fCJJl9nq7gGFQ0pqFVumKiKG0MALrdhk-Y4Y8=s400"
     },
     {
+      "id": 102,
       "title": "Lightning",
       "url": "/p/Lightning",
       "imageURL": "https://lh3.googleusercontent.com/_3GbvCYZ80-Y5rbbeW2alZqLy6Bfu29lk9QfFI_RIVZLxr8NSkQZ1jhBtDAykbDk7Sp7266XNiIXWUQ0HQC6Rxg-T_DH_SEZiYmtdW4=s400"
     },
     {
+      "id": 104,
       "title": "Tableware",
       "url": "/p/Tableware",
       "imageURL": "https://lh3.googleusercontent.com/7mx4HJ0gn9mj-0K1yC4sGY4xd9n3L6J0LIwQiudmu9TxKVrdLiw3r-5N2yTLiQzL8rzTRCN57X4HJ1kcQfCDXm5BOlsTCm-cw9QDEYc=s400"
