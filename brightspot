@@ -2,39 +2,21 @@
  "brightspotmrkt": [
     {
        "id": 106,
-      "title": "Sleeve",
-      "url": "/p/Sleeve",
-      "imageURL": "https://images.unsplash.com/photo-1603400521630-9f2de124b33b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+      "title": "Event",
+      "url": "/",
+      "imageURL": "https://lh3.googleusercontent.com/3eR2vwBOh5u9BHVvRabvWWDWKSzIvw_6RrCZka81fb8vhexi9Zq1cuhaRLdGumn-wGH4Y2UaxkAOVxWtBn_4rW2y7OVqgx-eMqvJ6Z0=s400"
     },
     {
        "id": 107,
-      "title": "Shirt",
-      "url": "/p/Shirt",
-      "imageURL": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=705&q=80"
+      "title": "Mens",
+      "url": "/",
+      "imageURL": "https://lh3.googleusercontent.com/q1Iq9nK0WTAkUAgLJrl9Ycip5MuoJUTpd1JKFv5K5Wg73rMU2o7K6CQYewfZIGi4HlPvczPuK5T3MbtPGDwU3Qg7bubIeXiZhzzrKA=s400"
     },
     {
-       "id": 108,
-      "title": "Sunglasses",
-      "url": "/p/Sunglasses",
-      "imageURL": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
-    },
-    {
-       "id": 109,
-      "title": "Woman",
-      "url": "/p/Woman",
-      "imageURL": "https://images.unsplash.com/photo-1554568218-0f1715e72254?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
-    },
-    {
-       "id": 110,
-      "title": "Dresses",
-      "url": "/p/Dresses",
-      "imageURL": "https://images.unsplash.com/photo-1550614000-4895a10e1bfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
-    },
-    {
-       "id": 105,
-      "title": "Fashion",
-      "url": "/p/Fashion",
-      "imageURL": "https://images.unsplash.com/photo-1601762603339-fd61e28b698a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+       "id": 107,
+      "title": "Womens",
+      "url": "/",
+      "imageURL": "https://lh3.googleusercontent.com/q1Iq9nK0WTAkUAgLJrl9Ycip5MuoJUTpd1JKFv5K5Wg73rMU2o7K6CQYewfZIGi4HlPvczPuK5T3MbtPGDwU3Qg7bubIeXiZhzzrKA=s400"
     }
   ]
 }
