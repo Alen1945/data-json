@@ -4,17 +4,20 @@
        "id": 106,
       "title": "Event",
       "url": "/",
+      "type": "brightspot_web",
       "imageURL": "https://lh3.googleusercontent.com/3eR2vwBOh5u9BHVvRabvWWDWKSzIvw_6RrCZka81fb8vhexi9Zq1cuhaRLdGumn-wGH4Y2UaxkAOVxWtBn_4rW2y7OVqgx-eMqvJ6Z0=s400"
     },
     {
        "id": 107,
       "title": "Mens",
       "url":  "/p/Mens",
+      "type": "default",
       "imageURL": "https://lh3.googleusercontent.com/q1Iq9nK0WTAkUAgLJrl9Ycip5MuoJUTpd1JKFv5K5Wg73rMU2o7K6CQYewfZIGi4HlPvczPuK5T3MbtPGDwU3Qg7bubIeXiZhzzrKA=s400"
     },
     {
        "id": 108,
       "title": "Womens",
+      "type": "default",
       "url": "/p/Womens",
       "imageURL": "https://lh3.googleusercontent.com/00s19O3O8MJAXRGXlB-QuxhGYGdE-tgWocrGhATQeWvfxPARqrir4E9MIsVpQjvZJ6GErK4TJZV_Hzx8331VEDlFKQ1uxNZft6WRjw=s400"
     }
