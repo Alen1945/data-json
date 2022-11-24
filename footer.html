@@ -1,1 +1,71 @@
-heekekek Page [page] of [toPage]
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Example 1</title>
+    <style>
+      .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      .footer {
+        color: #5D6975;
+        width: 100%;
+        height: 100px;
+        position: absolute;
+        bottom: 0;
+        border-top: 1px solid #C1CED9;
+        padding: 10px 20px;  
+      }
+      #project {
+        float: left;
+      }
+      #project div,
+      #notices div {
+        white-space: nowrap;        
+      }
+      .detail-school {
+        padding: 10px 0;
+        margin-bottom: 30px;
+      }
+      #notices {
+        float: right;
+        text-align: right;
+      }
+      #notices .notice {
+        color: #5D6975;
+        font-size: 1.2em;
+      }
+    </style>
+    <script>
+       var pdfInfo = {};
+        var x = document.location.search.substring(1).split('&');
+        for (var i in x) { var z = x[i].split('=',2); pdfInfo[z[0]] = unescape(z[1]); }
+        console.log( document.location.search)
+        console.log(pdfInfo)
+//         function getPdfInfo() {
+//           var page = pdfInfo.page || 1;
+//           var pageCount = pdfInfo.topage || 1;
+//           document.getElementById('pdfkit_page_current').textContent = page;
+//           document.getElementById('pdfkit_page_count').textContent = pageCount;
+//         }
+    </script>
+  </head>
+  <body>
+    <footer class="footer">
+      <section class="detail-school" class="clearfix">
+        <div id="project">
+          [page] of [topage]
+          <div>Sekolah Merdeka Belajar Komplek</div>
+          <div>Green Garden Blok B4 No. 1, 021 - 5827066 11520 Jakarta Barat, DKI</div>
+          <div>Jakarta skkkjakarta.sch.id</div>
+        </div>
+        <div id="notices">
+          <div class="notice">A finance charge of 1.5% will be made on unpaid balances after 30 days.</div>
+        </div>
+      </section>
+     
+    </footer>
+  </body>
+</html>
