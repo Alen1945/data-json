@@ -38,19 +38,6 @@
         font-size: 1.2em;
       }
     </style>
-    <script>
-       var pdfInfo = {};
-        var x = document.location.search.substring(1).split('&');
-        for (var i in x) { var z = x[i].split('=',2); pdfInfo[z[0]] = unescape(z[1]); }
-        console.log( document.location.search)
-        console.log(pdfInfo)
-//         function getPdfInfo() {
-//           var page = pdfInfo.page || 1;
-//           var pageCount = pdfInfo.topage || 1;
-//           document.getElementById('pdfkit_page_current').textContent = page;
-//           document.getElementById('pdfkit_page_count').textContent = pageCount;
-//         }
-    </script>
   </head>
   <body>
     <footer class="footer">
@@ -61,11 +48,19 @@
           <div>Green Garden Blok B4 No. 1, 021 - 5827066 11520 Jakarta Barat, DKI</div>
           <div>Jakarta skkkjakarta.sch.id</div>
         </div>
+        <div id="pdfkit_page_current">
+        </div>
         <div id="notices">
           <div class="notice">A finance charge of 1.5% will be made on unpaid balances after 30 days.</div>
         </div>
       </section>
-     
     </footer>
+     <script>
+       var pdfInfo = {};
+        var x = document.location.search.substring(1).split('&');
+        for (var i in x) { var z = x[i].split('=',2); pdfInfo[z[0]] = unescape(z[1]); }
+        document.getElementById('pdfkit_page_current').textContent = document.location.search;
+        console.log(pdfInfo)
+    </script>
   </body>
 </html>
